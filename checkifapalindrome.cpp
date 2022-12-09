@@ -15,7 +15,7 @@ int main(){
     cout<<str2.length()<<endl;
     cout<<str1.length()<<endl;
     if(str1 != str2){
-        cout<<"the entered string is not a palindrome"<<endl;
+        cout<<"the entered string is not a palindrome "<<endl;
     }else{
         cout<<"the entered string is a palindrome"<<endl;
     }
