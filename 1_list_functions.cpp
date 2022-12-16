@@ -7,7 +7,7 @@ int main()
  l.push_front(1);
  cout<<*(l.begin())<<endl;
  l.push_back(2);
- cout<<*(--l.end())<<endl;
+ cout<<*(--l.end())<<endl; 
  l.pop_front();
  l.pop_front();
  cout<<*(l.begin())<<endl;
