@@ -24,7 +24,7 @@ int main()
         cout<<x<<" ";
     }
     cout<<endl;
-    // ms.erase(10);
+    // ms.erase(10);  
      for(auto x:ms){
         cout<<x<<" ";
     }
