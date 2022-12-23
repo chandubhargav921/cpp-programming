@@ -12,7 +12,7 @@ void print(){
     for(int x:l){
         cout<<x<<" ";
     }
-}
+} 
 void replace(int x,vector<int> &v){
     auto itr=find(l.begin(),l.end(),x);
     itr=l.erase(itr);
