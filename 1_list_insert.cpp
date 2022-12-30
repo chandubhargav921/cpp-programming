@@ -10,7 +10,7 @@ int main()
  cout<<*(--l.end())<<endl;
  l.pop_front();
  l.pop_front();
- cout<<*(l.begin())<<endl;
+ cout<<*(l.begin())<<endl;  
  l.pop_back();
  l.pop_back();
  cout<<*(--l.end())<<endl;
