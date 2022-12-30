@@ -15,7 +15,7 @@ void print(){
 } 
 void replace(int x,vector<int> &v){
     auto itr=find(l.begin(),l.end(),x);
-    itr=l.erase(itr);
+    itr=l.erase(itr);  
     l.insert(itr,v.begin(),v.end());
 }
 int main()
