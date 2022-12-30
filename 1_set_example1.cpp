@@ -43,7 +43,7 @@ int main()
     insert(25);
    cout<<search(15)<<endl;
     delete(15);
-    search(15);
+    search(15); 
     getFloor(6);
     getFloor(5);
     getCeiling(6);
