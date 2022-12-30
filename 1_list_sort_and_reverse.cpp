@@ -16,7 +16,7 @@ int main()
  }
  l.reverse();
   cout<<endl;
-    for(int x:l){
+    for(int x:l){ 
      cout<<x<<" ";
  }
  
