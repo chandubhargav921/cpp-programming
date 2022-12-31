@@ -9,7 +9,7 @@ int main()
      cout<<x<<" ";
  }
   cout<<endl;
-    l.sort();
+    l.sort(); 
    
      for(int x:l){
      cout<<x<<" ";
