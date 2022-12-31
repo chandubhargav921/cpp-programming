@@ -11,7 +11,7 @@ using namespace std;
 //      if(s.top()<*(itr)){
 //          min=*(itr);
 //      }
-//      }
+//      } 
 //      return min;
 //  }
 int getMin(stack<int> s){
