@@ -12,7 +12,7 @@ int main()
     cout<<pq.top()<<" ";
     pq.pop();
     cout<<pq.top()<<" ";
-    pq.pop();
+    pq.pop(); 
     cout<<pq.top()<<" ";
     
 
