@@ -5,7 +5,7 @@ set<int> s;
 bool search(int x){
     if(s.count(x)){
         return true;
-    }else{
+    }else{ 
         return false;
     }
 }
