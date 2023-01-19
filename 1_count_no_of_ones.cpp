@@ -11,7 +11,7 @@ int count(int arr[],int n){
         }
     }
     return countt;
-}
+} 
 int main(){
    int arr[7]={1,1,1,1,1};
    cout<<count(arr,7)<<endl;
