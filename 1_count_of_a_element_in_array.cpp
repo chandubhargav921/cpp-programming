@@ -10,7 +10,7 @@ int check(int n,int arr[],int x){
         }
     }
     return count;
-}
+} 
 int main() 
 {
     int n,x;
