@@ -25,7 +25,7 @@ int main()
  itr++;
   cout<<endl;
  for(int x:l){
-     cout<<x<<" ";
+     cout<<x<<"  ";
  }
  cout<<endl;
  l.insert(itr,3,22);
