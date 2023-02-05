@@ -7,7 +7,7 @@ int count(int arr[],int n){
     auto itr=v.end();
     for(auto itrr=v.begin();itrr<itr;itrr++){
         if(*(itrr)==1){
-            countt++;
+            countt++; 
         }
     }
     return countt;
