@@ -8,7 +8,7 @@ int main()
 dq.push_front(5);
 for(int x:dq){
     cout<<x<<" ";
-}
+}  
 cout<<endl;
 dq.push_back(6);
 for(int x:dq){
