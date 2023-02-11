@@ -2,7 +2,7 @@
 #include <list>
 #include <vector>
 #include <algorithm>
-using namespace std;
+using namespace std; 
 list<int> l;
 vector<int> v={20,30,40};
 void insert(int  x){
