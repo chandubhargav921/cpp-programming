@@ -9,7 +9,7 @@ int i=0;
  arr=new int(n);
  ar=new int(n);
  cout<<"enter the number of items"<<endl;
- cin>>n;
+ cin>>n; 
  for(i=0;i<n;i++){
      cin>>arr[i];
      
