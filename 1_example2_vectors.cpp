@@ -19,7 +19,7 @@ int n=sizeof(arr)/sizeof(1);
         cout<<pa[j].second<<"---"<<pa[j].first<<endl;
     }
     cout<<"............"<<endl;
-    for(int i=n-1;i>=0;i--){
+    for(int i=n-1;i>=0;i--){  
     
         cout<<pa[i].second<<"---"<<pa[i].first<<endl;
     }
