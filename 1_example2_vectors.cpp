@@ -17,7 +17,7 @@ int n=sizeof(arr)/sizeof(1);
     sort(pa,pa+n);
     for(int j=0;j<n;j++){
         cout<<pa[j].second<<"---"<<pa[j].first<<endl;
-    }
+    }  
     cout<<"............"<<endl;
     for(int i=n-1;i>=0;i--){  
     
