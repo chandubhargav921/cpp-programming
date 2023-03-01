@@ -9,7 +9,7 @@ int main(){
     cin>>k;
     int y=(x<<(k-1));
     if(y-1%2==0){
-        cout<<"the kth digit is set"<<end;
+        cout<<"the kth digit is set"<<end;  
     }else{
         cout<<"the kth digit is not set"<<endl;
     }
