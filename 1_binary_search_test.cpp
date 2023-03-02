@@ -9,7 +9,7 @@ void binarysearch(int x,int arr[],int n){
        v.push_back(0);
        
    }
-   auto its=v.begin();
+   auto its=v.begin(); 
    auto ite=v.end()-1;
    while(median!=*(v.find(x))){
     median=((*its)+(*ite))/2;
