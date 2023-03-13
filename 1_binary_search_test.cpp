@@ -12,7 +12,7 @@ void binarysearch(int x,int arr[],int n){
    auto its=v.begin(); 
    auto ite=v.end()-1;
    while(median!=*(v.find(x))){
-    median=((*its)+(*ite))/2;  
+    median=((*its)+(*ite))/2;   
    if(x>median){
        its=&median;
        
