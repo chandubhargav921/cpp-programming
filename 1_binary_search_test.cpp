@@ -3,7 +3,7 @@
 
 using namespace std;
 void binarysearch(int x,int arr[],int n){
-    vector<int> v(arr,arr+n);
+    vector<int> v(arr,arr+n); 
     int median;
    if(v.size()%2==0){
        v.push_back(0); 
