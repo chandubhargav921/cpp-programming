@@ -23,7 +23,7 @@ void binarysearch(int x,int arr[],int n){
    return median;
 }
 int main()
-{
+{ 
    int arr[5]={1,2,3,4,5}; 
    int n=5;
    binarysearch(2,arr,5); 
